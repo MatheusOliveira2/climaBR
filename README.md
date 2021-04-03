@@ -1,3 +1,7 @@
+Trabalho desenvolvido para a disciplina de modelagem em implementação de software na Universidade Federal de Lavras, ministrada pelo professor Dr. Paulo Afonso Parreira Junior.
+
+Código Base: https://github.com/gcc132-2020-2/climabr
+
 # ClimaBR
 
 Uma aplicação simples para consulta à previsão do tempo de cidades brasileiras.
